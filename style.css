@@ -1,0 +1,17 @@
+table{
+    width:85%;
+    border-collapse:collapse;
+  }
+  input{
+    border:none;
+  }
+  h2{
+    text-align:center;
+  }
+  td{
+    text-align:center;
+    padding:10px;
+  }
+  #a1{
+    background:lightblue;
+  }
